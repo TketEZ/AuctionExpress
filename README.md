@@ -1,6 +1,6 @@
 # databases-auction-site
 
-Auction website similar to eBay. 
+Auction website Built using HTML, CSS, Bootstrap and a MySQL Database. 
 
 # Basic Setup
 <ol>
